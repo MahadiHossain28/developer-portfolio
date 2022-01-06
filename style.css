@@ -1,7 +1,6 @@
+/* *{margin: 0;padding: 0; box-shadow: none;} */
 body {
     font-family: "Poppins", sans-serif;
-    padding: 0%;
-    margin: 0%;
 }
 
 section {
@@ -19,10 +18,12 @@ section {
     border-color: #eb4d4b;
     border-radius: 3px;
     font-family: Monotype Corsiva;
+    margin-bottom: 50px;
 }
 
 h1 {
     font-size: 70px;
+    margin-left: 10px;
 }
 
 .span_1 {
@@ -89,7 +90,7 @@ h3 {
 }
 
 .mvg {
-    font-size: 20px;
+    font-size: 30px;
     color: rgb(64, 65, 66);
 }
 
@@ -155,14 +156,6 @@ style {
     margin-left: 30px;
 }
 
-
-/* .nai {
-    background-color: darkgrey;
-    margin: 20px 20px 20px 20px;
-    width: 30%;
-    box-sizing: border-box;
-} */
-
 .thing {
     width: 50%;
 }
@@ -184,10 +177,11 @@ style {
     color: brown;
 }
 
-h6 {
+.footer h6 {
     font-family: Monotype Corsiva;
     font-size: 40px;
     text-align: center;
+    margin: 40px;
 }
 
 h5 {

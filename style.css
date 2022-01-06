@@ -1,4 +1,197 @@
-h2{
-    font-weight: bold;
-    font-size: 100px;
+body {
+    font-family: "Poppins", sans-serif;
+    padding: 0%;
+    margin: 0%;
+}
+
+section {
+    display: flex;
+}
+
+.right {
+    width: 50%;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+.side {
+    border-left: 5px solid;
+    border-color: #eb4d4b;
+    border-radius: 3px;
+    font-family: Monotype Corsiva;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+.span_1 {
+    color: orange;
+}
+
+.left {
+    width: 50%;
+}
+
+.img {
+    width: 550px;
+    height: 600px;
+}
+
+.button {
+    background-color: crimson;
+    padding: 20px 40px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+}
+
+.middle {
+    font-size: 70px;
+    text-align: center;
+}
+
+.span {
+    color: orangered;
+}
+
+.mission {
+    background-color: rgb(121, 230, 220);
+    border-radius: 15px;
+    width: 30%;
+    padding: 10px 20px;
+    margin: 10px 10px;
+}
+
+.vission {
+    background-color: palegreen;
+    border-radius: 15px;
+    width: 30%;
+    padding: 10px 20px;
+    margin: 10px 10px;
+}
+
+.goals {
+    background-color: plum;
+    border-radius: 15px;
+    width: 30%;
+    padding: 20px 20px;
+    margin: 10px 10px;
+}
+
+.icon {
+    width: 200px;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+.mvg {
+    font-size: 20px;
+    color: rgb(64, 65, 66);
+}
+
+.third {
+    margin-top: 70px;
+}
+
+.coding {
+    height: 600px;
+    width: 500px;
+}
+
+.read {
+    /* margin: 30px 10px; */
+    margin-left: 50px;
+    width: 50%;
+}
+
+.show {
+    width: 50%;
+    padding: 30px;
+    margin: 20px 10px;
+    text-align: justify;
+}
+
+.dev {
+    font-size: 60px;
+}
+
+.fourth {
+    margin-top: 60px;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+style {
+    width: 10px;
+    height: 10px;
+}
+
+.showing {
+    width: 50%;
+    margin-left: 30px;
+    margin-top: 40px;
+    padding: 30px 30px;
+}
+
+.project {
+    width: 550px;
+    height: 600px;
+}
+
+.faka {
+    margin: 20px 20px 20px 20px;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.faka img {
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+
+
+/* .nai {
+    background-color: darkgrey;
+    margin: 20px 20px 20px 20px;
+    width: 30%;
+    box-sizing: border-box;
+} */
+
+.thing {
+    width: 50%;
+}
+
+.span_2 {
+    color: orangered;
+    font-size: 60px;
+}
+
+.footer {
+    color: rgb(255, 255, 255);
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    margin-top: 40px;
+}
+
+.last {
+    color: brown;
+}
+
+h6 {
+    font-family: Monotype Corsiva;
+    font-size: 40px;
+    text-align: center;
+}
+
+h5 {
+    font-size: medium;
+    color: rgb(241, 235, 226);
+    text-align: center;
 }
